@@ -1,59 +1,71 @@
 ---
 layout: archive
-title: "CV"
-permalink: /cv/
+title: "Resume"
+permalink: /resume/
 author_profile: true
 redirect_from:
-  - /resume
+  - /cv
 ---
 
 {% include base_path %}
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Electrical & Computer Engineering and Minor in Human-Computer Interaction, Carnegie Mellon University 2021 (expected)
+  * Dean's List
+  * GPA: 3.7/4.0 
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* CMU Department of ECE (Fall 2020)
+  * Teaching Assistant for 18-100, Introduction to Electrical & Computer Engineering 
+  * Duties include (virtually): 
+    * Hold weekly small group meetings with students 
+    * Guide students through hands-on labs 
+    * Weekly office hours 
+  * Supervisors: [Professor Zhu](https://users.ece.cmu.edu/~jzhu/), [Professor Kesden](https://www.andrew.cmu.edu/user/gkesden/)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* CMU Human-Computer Interaction Institute (Summer 2019, 2020)
+  * Intern 
+  * Duties included: 
+    * Develop a mobile application, Peerdea, for both Android and iOS
+    * Contribute in writing for a demo paper to UIST and a research paper to CSCW (ongoing)  
+    * Conduct user-testing sessions and research workshops 
+    * Interview current Peerdea users
+  * Supervisors: [Yasmine Kotturi](https://ykotturi.github.io/), [Chinmay Kulkarni](http://www.cs.cmu.edu/~chinmayk/)
+
+* CMU School of Computer Science (Summer 2018, Fall 2018 - Fall 2019)
+  * Teaching Assistant for 15-112, Fundamentals of Programming & Computer Science 
+  * Duties included: 
+    * Teach weekly recitations for sections of approximately 30 students
+    * Plan and lead weekly large group and small group review sessions 
+    * Weekly office hours 
+    * Personally mentor students during their final term projects 
+  * Supervisors: [Professor Kosbie](https://www.kosbie.net/cmu/), [Kelly Rivers](http://www.krivers.net/)
+
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming
+  * Python
+  * C
+  * Matlab 
+  * SML
+  * Java
+* Mobile Development
+  * React Native
+  * Expo 
+  * Docker 
+* Web Development 
+  * Django
+  * HTML, CSS, Javascript 
+* Design 
+  * Adobe XD
+  * Photoshop 
+  * Adobe InDesign 
+* Git
+* LaTeX
+* Microsoft Office 
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
