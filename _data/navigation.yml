@@ -2,7 +2,10 @@
 main:
   - title: "Resume"
     url: /resume/
-  
+
+  - title: "Courses"
+    url: /courses/
+
   - title: "Publications"
     url: /publications/
 
