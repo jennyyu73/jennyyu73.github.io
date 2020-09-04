@@ -11,7 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in Electrical & Computer Engineering and Minor in Human-Computer Interaction, Carnegie Mellon University 2021 (expected)
+* Carnegie Mellon University (2021, expected)
+  * B.S. in Electrical & Computer Engineering, Minor in Human-Computer Interaction
   * Dean's List
   * GPA: 3.7/4.0 
 
