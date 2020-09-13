@@ -8,4 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-This is my personal website 
+My interest lies in software, user experience design, and app & web development. 
+
+I also have extensive experience in mentorship, having TA'ed for a number of semesters combined for 15-112 (Fundamentals of Programming & CS) and 18-100 (Introduction to Electrical & Computer Engineering) at Carnegie Mellon. 
+
+Below, you can find a gallery of a number projects I have worked on that harnesses a mixture of computer science and design. 
