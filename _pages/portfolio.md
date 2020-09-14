@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Portfolio"
+title: "Portfolio Projects"
 permalink: /portfolio/
 author_profile: true
 redirect_from:
@@ -11,11 +11,13 @@ redirect_from:
 
 Peerdea
 ======
-Peerdea is a mobile application for both iOS and Android, currently deployed onto TestFlight and pending deployment on the Play Store. 
+Peerdea is a mobile application for both iOS and Android, currently deployed onto TestFlight and pending deployment on the Play Store. I developed this app with CMU HCII's Yasmine Kotturi and Chinmay Kulkarni advising, as well as the sponsorship of Instagram. The goal of Peerdea is to better enable quality feedback exchanges on in-progress work and design concepts, as well as to create a trusting environment where artists, small business owners, and other creators can feel comfortable sharing their work for feedback. 
+
+After creating a profile, users are able to create and join small groups, in which they can then seek feedback from others and give feedback as they see fit. Written feedback is scaffolded by both a critical and a positive sentence starter. Users are also only able to view the feedback others have given on a concept after giving their own, in an effort to dissuade groupthink. 
 
 Here is a brief demonstration video of Peerdea's flow:
 
-<video width="640" height="480" controls>
+<video width="640" height="360" controls>
   <source src="../files/Peerdea_preview.mp4" type="video/mp4">
 </video>
 
@@ -45,15 +47,15 @@ Made with:
 
 Flashcard Tutor
 ======
-description and images
+Flashcard Tutor is a Python-based flashcard practice tool that allows for adaptive learning. My collaborator, Ruitao Li, and I wished to create something that would give students more learner autonomy and control whilst still maintaining the benefits of personalized learning. In Flashcard Tutor, decks are able to be uploaded via pre-filled Excel sheets. As the student practices each deck, the tutor will track and any correctness or error streaks as well as perceived difficulty and confidence the user has in their answers for each card. It will then calculate and update the mastery level for each deck based on the performance of the student. We also aimed to keep the UI both visually pleasing and simple in nature. 
+
+You can find the github repository for this project [here](https://github.com/jennyyu73/flashcard-tutor), as well as images of individual screens in the tutor below: 
+
+![Flashcard tutor 1](../files/flashcard1.jpg){:width="50%" height="50%"} 
+![Flashcard tutor 2](../files/flashcard2.jpg){:width="50%" height="50%"}
+![Flashcard tutor 3](../files/flashcard3.jpg){:width="50%" height="50%"}  
+![Flashcard tutor 4](../files/flashcard4.jpg){:width="50%" height="50%"} 
 
 Made with:
 * Python 
 
-Restaurant Website (Chick-fil-b)
-======
-description and images
-Made with:
-* HTML & CSS & Javascript
-* Django 
-* Microsoft Azure 
