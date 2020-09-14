@@ -15,7 +15,7 @@ Peerdea is a mobile application for both iOS and Android, currently deployed ont
 
 Here is a brief demonstration video of Peerdea's flow:
 
-<video width="320" height="240" controls>
+<video width="640" height="480" controls>
   <source src="../files/Peerdea_preview.mp4" type="video/mp4">
 </video>
 
