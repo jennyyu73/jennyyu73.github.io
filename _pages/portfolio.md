@@ -15,7 +15,9 @@ Peerdea is a mobile application for both iOS and Android, currently deployed ont
 
 Here is a brief demonstration video of Peerdea's flow:
 
-![Peerdea demo video](../files/Peerdea_preview.mp4)
+<video width="320" height="240" controls>
+  <source src="../files/Peerdea_preview.mp4" type="video/mp4">
+</video>
 
 Made with:
 * React Native & Javascript 
@@ -32,9 +34,9 @@ Bottle Keeper is a Facebook Messenger chatbot that allows the user to experience
 
 You can see sample interactions between a user and Bottle Keeper below: 
 
-![Bottle Keeper sample image 1](../files/bottlekeeper1.jpg){width=30% height=30%} 
-![Bottle Keeper sample image 2](../files/bottlekeeper2.jpg){width=30% height=30%} 
-![Bottle Keeper sample image 3](../files/bottlekeeper3.jpg){width=30% height=30%} 
+![Bottle Keeper sample image 1](../files/bottlekeeper1.jpg){:width="30%" height="30%"} 
+![Bottle Keeper sample image 2](../files/bottlekeeper2.jpg){:width="30%" height="30%"} 
+![Bottle Keeper sample image 3](../files/bottlekeeper3.jpg){:width="30%" height="30%"} 
 
 Made with:
 * Javascript 
