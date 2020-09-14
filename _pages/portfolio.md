@@ -32,9 +32,9 @@ Bottle Keeper is a Facebook Messenger chatbot that allows the user to experience
 
 You can see sample interactions between a user and Bottle Keeper below: 
 
-![Bottle Keeper sample image 1](../files/bottlekeeper1.jpg)
-![Bottle Keeper sample image 2](../files/bottlekeeper2.jpg)
-![Bottle Keeper sample image 3](../files/bottlekeeper3.jpg)
+![Bottle Keeper sample image 1](../files/bottlekeeper1.jpg){width=30% height=30%} 
+![Bottle Keeper sample image 2](../files/bottlekeeper2.jpg){width=30% height=30%} 
+![Bottle Keeper sample image 3](../files/bottlekeeper3.jpg){width=30% height=30%} 
 
 Made with:
 * Javascript 
