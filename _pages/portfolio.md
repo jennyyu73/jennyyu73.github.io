@@ -51,10 +51,10 @@ Flashcard Tutor is a Python-based flashcard practice tool that allows for adapti
 
 You can find the github repository for this project [here](https://github.com/jennyyu73/flashcard-tutor), as well as images of individual screens in the tutor below: 
 
-![Flashcard tutor 1](../files/flashcard1.png){:width="50%" height="50%"} 
-![Flashcard tutor 2](../files/flashcard2.png){:width="50%" height="50%"} 
-![Flashcard tutor 3](../files/flashcard3.png){:width="50%" height="50%"}  
-![Flashcard tutor 4](../files/flashcard4.png){:width="50%" height="50%"} 
+![Flashcard tutor 1](../files/flashcard1.PNG){:width="50%" height="50%"} 
+![Flashcard tutor 2](../files/flashcard2.PNG){:width="50%" height="50%"} 
+![Flashcard tutor 3](../files/flashcard3.PNG){:width="50%" height="50%"}  
+![Flashcard tutor 4](../files/flashcard4.PNG){:width="50%" height="50%"} 
 
 Made with:
 * Python 
