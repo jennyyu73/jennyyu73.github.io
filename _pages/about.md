@@ -14,4 +14,4 @@ I have also been doing academic research with CMU's HCII for over a year, advise
 
 In addition, I also have extensive experience in mentorship, having TA'ed for a number of semesters combined for 15-112 (Fundamentals of Programming & CS) and 18-100 (Introduction to Electrical & Computer Engineering) at Carnegie Mellon. 
 
-Working together with others is a great joy of mine, and I seek to learn as much as I can from those I have collaborated with and mentored throughout the years. 
+I also enjoy designing and creating graphics and other pieces of art in my free time, which you can view on my "Designs" page. 

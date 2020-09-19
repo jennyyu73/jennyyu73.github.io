@@ -10,14 +10,14 @@ redirect_from:
 {% include base_path %}
 
 Education
-======
+=====
 * Carnegie Mellon University (2021, expected)
   * B.S. in Electrical & Computer Engineering, Minor in Human-Computer Interaction
   * Dean's List
   * GPA: 3.7/4.0 
 
 Work experience
-======
+=====
 * CMU Department of ECE (Fall 2020)
   * Teaching Assistant for 18-100, Introduction to Electrical & Computer Engineering 
   * Duties include (virtually): 
@@ -33,7 +33,7 @@ Work experience
     * Contribute in writing for a demo paper to UIST and a research paper to CSCW (ongoing)  
     * Conduct user-testing sessions and research workshops 
     * Interview current Peerdea users
-  * Supervisors: [Yasmine Kotturi](https://ykotturi.github.io/), [Chinmay Kulkarni](http://www.cs.cmu.edu/~chinmayk/)
+  * Supervisors: [Yasmine Kotturi](https://ykotturi.github.io/), [Professor Chinmay Kulkarni](http://www.cs.cmu.edu/~chinmayk/)
 
 * CMU School of Computer Science (Summer 2018, Fall 2018 - Fall 2019)
   * Teaching Assistant for 15-112, Fundamentals of Programming & Computer Science 
@@ -46,9 +46,9 @@ Work experience
 
   
 Skills
-======
+=====
 * Programming
-  * Python
+  * Python 
   * C
   * Matlab 
   * SML
